@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### :: 🖥️Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=gcount85&show_icons=true&theme=merko&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=gcount85&show_icons=true&theme=gruvbox&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcount85">
 
 
