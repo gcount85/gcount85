@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/gcount85/gcount85/blob/output/github-contribution-grid-snake.svg) -->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=gcount85&show_icons=true&theme=gruvbox&count_private=true"> <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=bcount85" height="195">
+<img src="https://github-readme-stats.vercel.app/api?username=gcount85&show_icons=true&theme=gruvbox&count_private=true" height="160"> <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=bcount85" height="160">
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcount85"> -->
