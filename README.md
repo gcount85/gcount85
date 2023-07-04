@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### ✍🏻 BOJ ✍🏻
 
-<img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=bcount85" width="450">
+<img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=bcount85" width="467">
 
 <!-- ### 📚 Tech Stack 📚
 
