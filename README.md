@@ -15,17 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :: 🖥️Github Stats
+#### contribution
+
+![snake gif](https://github.com/gcount85/gcount85/blob/output/github-contribution-grid-snake.svg)
+
+#### 🖥️ Github Stats 🖥️
 
 <img src="https://github-readme-stats.vercel.app/api?username=gcount85&show_icons=true&theme=gruvbox&count_private=true">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcount85"> -->
 
-
-### :: ✍🏻Solved.ac
+#### ✍🏻 BOJ ✍🏻
 
 <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=bcount85" width="450">
 
-### :: 📚Stack
+#### 📚 Tech Stack 📚
 
 <div style="display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="110" height="110" />
